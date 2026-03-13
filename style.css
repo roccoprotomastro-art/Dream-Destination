@@ -14,6 +14,7 @@ a:hover {    /* Color of the link when hovering over */
     text-decoration: underline;
 }
 
-img{
+img{   /*Extra - Border Color and Width*/
 	border: 15px solid rgb(67, 197, 236);
+
 }
